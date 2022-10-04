@@ -1,0 +1,28 @@
+{
+  "name": "exercise_authentication-authorization",
+  "version": "1.0.0",
+  "description": "https://platform.wbscodingschool.com/courses/full-stack-web-app/13269/",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GrannyYetta/Exercise_Authentication-Authorization.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GrannyYetta/Exercise_Authentication-Authorization/issues"
+  },
+  "homepage": "https://github.com/GrannyYetta/Exercise_Authentication-Authorization#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.1",
+    "express-session": "^1.17.3",
+    "nodemon": "^2.0.20"
+  }
+}
